@@ -42,6 +42,7 @@ while turns < ques:
         print("Your given answer is Correct")
     else :
         print("Your given answer is Wrong")
+        print("The correct answer is", n_1*n_2)
     
     print("\n")
 
